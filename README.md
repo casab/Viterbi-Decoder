@@ -1,2 +1,5 @@
 # Viterbi-Decoder
-![Screenshot](https://dl.dropboxusercontent.com/u/38965262/ShareX/2017-01/AcroRd32_2017-01-04_15-37-58.png)
+Viterbi decoder for a 1/3 rated convolutionally coded encoder.
+
+## Encoder
+![1/3 rate convolutional encoder](images/encoder.png?raw=true)

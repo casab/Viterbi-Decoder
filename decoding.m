@@ -1,4 +1,4 @@
-function [ output_data ] = decoding( input_data )
+function [ output_data ] = viterbi_decoder( input_data )
 %DECODING using viterbi algorithm
 A0 = [0 0 0]; A1 = [1 1 1]; B0 = [1 1 1]; B1 = [0 0 0];
 C0 = [1 0 1]; C1 = [0 1 0]; D0 = [0 1 0]; D1 = [1 0 1];
